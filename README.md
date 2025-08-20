@@ -81,6 +81,20 @@
       <br><strong>Pandas</strong>
     </td>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="50" height="50" alt="Pytest" />
+      <br><strong>Pytest</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face" />
+      <br><strong>Hugging Face</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/ultralytics/assets/raw/main/logo/Ultralytics_Logotype_Original.svg" width="50" height="50" alt="Ultralytics" />
+      <br><strong>Ultralytics</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
@@ -91,6 +105,18 @@
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" />
       <br><strong>SQLite</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" />
+      <br><strong>Azure</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="50" height="50" alt="n8n" />
+      <br><strong>n8n</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-only-light.ico" width="50" height="50" alt="vLLM" />
+      <br><strong>vLLM</strong>
     </td>
   </tr>
   <tr>
