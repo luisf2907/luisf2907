@@ -12,40 +12,114 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens de Programação
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,lua&theme=dark" />
-</div>
-
-### 🎨 Frontend & Mobile
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,html,css,tailwind&theme=dark" />
-</div>
-
-### ⚙️ Backend & APIs
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express&theme=dark" />
-</div>
-
-### 🤖 IA & Machine Learning
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</div>
-
-### 🗄️ Bancos de Dados
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb,redis&theme=dark" />
-</div>
-
-### 🛠️ Ferramentas & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,vscode&theme=dark" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+      <br><strong>C++</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50" height="50" alt="Lua" />
+      <br><strong>Lua</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
+      <br><strong>Angular</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
+      <br><strong>Flutter</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" />
+      <br><strong>Flask</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
+      <br><strong>FastAPI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
+      <br><strong>TensorFlow</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
+      <br><strong>PyTorch</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+      <br><strong>Pandas</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" />
+      <br><strong>SQLite</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+      <br><strong>CSS3</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
