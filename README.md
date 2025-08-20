@@ -5,9 +5,15 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏢-ExACTa_PUC--Rio-6366F1?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎓-Eng._Computação-8B5CF6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/📍-Rio_de_Janeiro-A855F7?style=for-the-badge&logoColor=white"/>
+  <a href="https://www.exacta.inf.puc-rio.br/">
+    <img src="https://img.shields.io/badge/🏢-ExACTa_PUC--Rio-6366F1?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.inf.puc-rio.br/">
+    <img src="https://img.shields.io/badge/🎓-Eng._Computação-8B5CF6?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.google.com/maps?sca_esv=c1523925ca8a67ec&output=search&q=Leme+rio+de+janeiro&source=lnms&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WMlVZjGnBiGIxaghLPqA-PlfgbLKUxiHcJwD8uXnH2piQeYrqXclWH43_sWzBblNc2efdNn4MYz0gFoird7suLCKhbn_Ul6_ibSxeYSzssjY0Rf7q9932xmddHrw0GyoP2j4qI0CErvSRJCBkQBIyxiZlQy6kJKSfIisfGDnY0Att4tzxbmUwXIygT3VBJAQTv23HQzg&entry=mc&ved=1t:200715&ictx=111">
+    <img src="https://img.shields.io/badge/📍-Rio_de_Janeiro-A855F7?style=for-the-badge&logoColor=white"/>
+  </a>
 </div>
 
 ---
